@@ -1,4 +1,6 @@
-﻿namespace Decorator
+﻿using System;
+
+namespace Decorator
 {
     public class Program
     {
@@ -7,7 +9,7 @@
             CalculateEmployeeSalary salary = new CalculateEmployeeSalary();
             NewYearBonus bonus = new NewYearBonus(salary);
 
-            System.Console.WriteLine(bonus.Calculate());
+            Console.WriteLine(bonus.Calculate());
         }
     }
 }

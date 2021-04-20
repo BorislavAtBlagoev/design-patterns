@@ -1,12 +1,13 @@
-﻿using System;
-
-namespace Adapter
+﻿namespace Adapter
 {
     public class Program
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            KmhSpeed kmhSpeed = new KmhSpeed();
+            IMphSpeed mphSpeed = new Adapter(kmhSpeed);
+
+            mphSpeed.CalculateSpeedPerHour();
         }
     }
 }
