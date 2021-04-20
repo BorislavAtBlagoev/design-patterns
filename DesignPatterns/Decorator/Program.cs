@@ -1,12 +1,13 @@
-﻿using System;
-
-namespace Decorator
+﻿namespace Decorator
 {
     public class Program
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            CalculateEmployeeSalary salary = new CalculateEmployeeSalary();
+            NewYearBonus bonus = new NewYearBonus(salary);
+
+            System.Console.WriteLine(bonus.Calculate());
         }
     }
 }
