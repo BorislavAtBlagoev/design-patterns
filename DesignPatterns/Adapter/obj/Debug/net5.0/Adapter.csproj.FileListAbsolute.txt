@@ -1,0 +1,16 @@
+D:\DevCamp\DotNet\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.exe
+D:\DevCamp\DotNet\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.deps.json
+D:\DevCamp\DotNet\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+D:\DevCamp\DotNet\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+D:\DevCamp\DotNet\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.dll
+D:\DevCamp\DotNet\DesignPatterns\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+D:\DevCamp\DotNet\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.pdb
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.csprojAssemblyReference.cache
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.dll
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.pdb
+D:\DevCamp\DotNet\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache

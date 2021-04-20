@@ -1,0 +1,16 @@
+D:\DevCamp\DotNet\DesignPatterns\Observer\bin\Debug\net5.0\Observer.exe
+D:\DevCamp\DotNet\DesignPatterns\Observer\bin\Debug\net5.0\Observer.deps.json
+D:\DevCamp\DotNet\DesignPatterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+D:\DevCamp\DotNet\DesignPatterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+D:\DevCamp\DotNet\DesignPatterns\Observer\bin\Debug\net5.0\Observer.dll
+D:\DevCamp\DotNet\DesignPatterns\Observer\bin\Debug\net5.0\ref\Observer.dll
+D:\DevCamp\DotNet\DesignPatterns\Observer\bin\Debug\net5.0\Observer.pdb
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\Observer.csprojAssemblyReference.cache
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\Observer.dll
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\ref\Observer.dll
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\Observer.pdb
+D:\DevCamp\DotNet\DesignPatterns\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache

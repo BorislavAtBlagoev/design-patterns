@@ -1,0 +1,16 @@
+D:\DevCamp\DotNet\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.exe
+D:\DevCamp\DotNet\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.deps.json
+D:\DevCamp\DotNet\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+D:\DevCamp\DotNet\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+D:\DevCamp\DotNet\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.dll
+D:\DevCamp\DotNet\DesignPatterns\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+D:\DevCamp\DotNet\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.pdb
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.csprojAssemblyReference.cache
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.dll
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.pdb
+D:\DevCamp\DotNet\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache
