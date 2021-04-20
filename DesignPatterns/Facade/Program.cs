@@ -1,12 +1,13 @@
-﻿using System;
-
-namespace Facade
+﻿namespace Facade
 {
     public class Program
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            IEngine engine = new Engine();
+
+            engine.Start();
+            engine.Stop();
         }
     }
 }
